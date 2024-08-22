@@ -1,2 +1,1 @@
-# Debian_Linux-
-In android 
+# Debian_Linux
